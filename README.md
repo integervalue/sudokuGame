@@ -12,6 +12,6 @@ A CLI version of the sudoku game
 
 To compile: 
 
-clang -o <pick-a-name> main.c
+clang -o \<pick-a-name> main.c
   
 **replay/resume functions will return errors if the "saves.txt" file is missing
